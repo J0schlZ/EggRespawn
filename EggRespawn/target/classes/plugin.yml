@@ -1,0 +1,6 @@
+name: EggRespawn
+main: de.crafttogether.EggRespawn
+version: 1.0
+website: http://www.craft-together.de
+author: J0schlZ
+description: A simple plugin which respawns the enderdragon egg
